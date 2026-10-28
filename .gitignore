@@ -1,0 +1,30 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Sensitive data (never commit actual evidence)
+EVIDENCE/
+*.pcap
+*.mitm
+*.log
+credentials.json
+tokens.json
+
+# Private keys
+*.pem
+*.key
+
+# Temporary files
+*.tmp
+*.swp

@@ -1,0 +1,27 @@
+{
+  "name": "ai-data-audit",
+  "version": "1.0.0",
+  "description": "A comprehensive framework for auditing, documenting, and legally addressing unauthorized data access by AI models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet - this is a documentation and framework project\" && exit 0"
+  },
+  "keywords": [
+    "ai",
+    "privacy",
+    "data-audit",
+    "legal",
+    "gdpr",
+    "ccpa",
+    "privacy-law",
+    "data-protection",
+    "consent",
+    "permissions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swathiGanti392/ai-data-audit"
+  }
+}
